@@ -83,7 +83,7 @@ dev = [
     "mypy==1.5.1",
     "psutil==5.9.2",
     "stix2==3.0.1",
-    "requests==2.31.0",
+    "requests==2.33.0",
     "mypy-protobuf==3.5.0",
     # type stubs for mypy
     "types-backports==0.1.3",
